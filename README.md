@@ -28,10 +28,6 @@ Want to play? Follow these steps:
 2️⃣ Open the Game
 Simply open index.html in your web browser, and you're ready to play!
 
-Screenshots 📸
-
-
-
 Future Improvements 🔮
 We're always looking to improve! Here are some ideas:
 
